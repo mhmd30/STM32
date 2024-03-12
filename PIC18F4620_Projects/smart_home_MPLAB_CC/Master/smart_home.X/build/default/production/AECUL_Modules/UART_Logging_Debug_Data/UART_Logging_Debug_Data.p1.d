@@ -1,2 +1,0 @@
-build/default/production/AECUL_Modules/UART_Logging_Debug_Data/UART_Logging_Debug_Data.p1:  \
-AECUL_Modules/UART_Logging_Debug_Data/UART_Logging_Debug_Data.c 
